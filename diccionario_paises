@@ -1,0 +1,21 @@
+paises_por_continente = {
+
+    "Medio_Oriente": ["Turkey", "United Arab Emirates", "Yemen","Saudi Arabia","Palestinian National Authority","Afghanistan","Libya" ,"Egypt","Qatar","Syria","Bahrain", "Oman", "Pakistan", "Armenia", "Azerbaijan", "Bahrain", "Cyprus","Iran", "Iraq", "Israel", "Jordan", "Kuwait", "Lebanon"],
+    "Asia_Central": ["Turkmenistan", "Uzbekistan", "Tajikistan", "Kazakhstan", "Kyrgyzstan"],
+    "Asia_Oriental": ["Mongolia", "South Korea", "North Korea", "Japan", "China"],
+    "Asia_del_Sur": ["Sri Lanka", "Nepal", "Bhutan", "Maldives", "India", "Bangladesh"],
+    "Sudeste_Asiatico": ["Singapore", "Philippines", "Vietnam", "Thailand", "East Timor", "Myanmar", "Indonesia", "Laos", "Malaysia", "Brunei", "Cambodia"],
+    "Europa_Occidental": ["Switzerland", "San Marino","Netherlands", "Republic of Ireland","Portugal","Andorra","Monaco","Norway","Spain","Sweden","Austria", "Denmark", "Iceland", "Ireland", "Italy", "Liechtenstein", "Vatican City", "United Kingdom","Andorra", "Austria", "Denmark", "Belgium", "Germany", "Greece", "Finland", "France", "Luxembourg", "Malta"],
+    "Europa_Oriental": ["Montenegro", "North Macedonia","Albania",'Bosnia and Herzegovina', "Poland","Armenia", "Azerbaijan","Belarus", "Ukraine", "Romania", "Russia", "Serbia", "Slovakia", "Slovenia", "Moldova", "Bulgaria", "Croatia", "Czech Republic", "Estonia", "Hungary", "Latvia", "Lithuania"],
+    "Norte_de_africa": ["Sudan","Mauritania","Algeria", "Tunisia", "Morocco","Djibouti"],
+    "Africa_Occidental": ["Ghana", "Liberia","Senegal", "Sierra Leone","Central African Republic", "Chad", "Comoros", "Nigeria", "Benin", "Burkina Faso", "Ivory Coast", "Cape Verde", "Niger","The Gambia", "Guinea", "Guinea-Bissau", "Liberia" "Ghana", "Mali", "Togo"],
+    "Africa_Oriental": ["Rwanda", "Somalia", "South Sudan","Malawi", "Mauritius","Uganda", "Zambia", "Tanzania","Burundi", "Kenya", "Eritrea", "Ethiopia","Mozambique", "Madagascar"],
+    "Africa_Central": ["Equatorial Guinea", "Botswana", "Eswatini", "Lesotho", "Namibia","Cameroon", "Gabon", "Angola", "Republic of the Congo","Democratic Republic of the Congo"],
+    "Norteamerica": ["Canada","The Bahamas","United States","Mexico", "Haiti"],
+    "Centroamerica": ["Nicaragua", "Guatemala", "Honduras", "Belize", "Costa Rica","Cuba", "Panama","El Salvador", "Dominica"],
+    "Sudamerica": ["Suriname","Argentina","Venezuela", "Uruguay","Bolivia", "Paraguay","Ecuador", "Guyana", "Peru", "Brazil", "Chile", "Colombia"],
+    "El_Caribe": ["Saint Kitts and Nevis", "Saint Lucia", "Saint Vincent and the Grenadines","Trinidad and Tobago", "Barbados", "Jamaica","Antigua and Barbuda", "Dominican Republic","Grenada"],
+    "Oceania": ["Palau", "Samoa", "Seychelles", "Solomon Islands", "Tonga", "Tuvalu", "Vanuatu","Marshall Islands", "Federated States of Micronesia", "Nauru","Fiji", "New Zealand","Kiribati", "Papua New Guinea","Australia"],
+    "Africa_Austral":["South Africa", "Zimbabwe"],
+    "Asia_Occidental_Caucaso": ["Georgia"],
+}
